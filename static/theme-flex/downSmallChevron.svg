@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>downSmallChevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.30720398,3.98067415 L3.84523954,-0.48757934 C3.38488904,-0.947929835 3.38488904,-1.69430546 3.84523953,-2.15465593 C4.30559002,-2.61500644 5.05196564,-2.61500644 5.51255318,-2.15441874 L10.5667941,2.90660641 C11.1585778,3.49912695 11.1585778,4.45901121 10.5676364,5.05068635 L5.51972441,10.1287902 C5.30224188,10.3602086 5.00056173,10.4940527 4.68304344,10.4999937 C4.19508883,10.4957154 3.76981915,10.2077634 3.58978215,9.7692447 C3.40974514,9.33072599 3.50999348,8.82701883 3.8433856,8.49167876 L8.30720398,3.98067415 Z" id="downSmallChevron" fill="#6E6E6E" fill-rule="nonzero" transform="translate(7.255357, 4.000052) rotate(90.000000) translate(-7.255357, -4.000052) "></path>
+    </g>
+</svg>

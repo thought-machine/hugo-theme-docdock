@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>rightArrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="docs-1440" transform="translate(-118.000000, -1355.000000)">
+            <rect fill="none" x="0" y="0" width="1440" height="1435"></rect>
+            <g id="ui/iconBtn/1_default" transform="translate(110.000000, 1345.000000)" fill="#4932FF" fill-rule="nonzero">
+                <g id="icon">
+                    <g id="element/icon/grey/minus" transform="translate(8.000000, 10.000000)">
+                        <path d="M4.24900577,10.5541528 C3.93311107,10.2479922 3.42274796,10.2497524 3.10907786,10.5580844 C2.79540776,10.8664164 2.79721116,11.3645611 3.11310587,11.6707218 L9.15512663,17.5327088 C9.33384369,17.705541 9.56337117,17.8196189 9.81169288,17.85903 C9.86925998,17.8651056 9.92733039,17.8651056 9.98489748,17.85903 C10.3294463,17.8587548 10.6366022,17.7343085 10.8630045,17.5130509 L16.8889132,11.6707218 C17.2036956,11.3634754 17.2036956,10.8653307 16.8889132,10.5580844 C16.5741308,10.2508381 16.0637677,10.2508381 15.7489853,10.5580844 L10.8066123,15.3821341 L10.8066123,-0.963683828 C10.8066123,-1.39795426 10.4459317,-1.75 10.0010095,-1.75 C9.55608741,-1.75 9.19540677,-1.39795426 9.19540677,-0.963683828 L9.19540677,15.3506815 L4.24900577,10.5541528 Z" id="rightArrow" transform="translate(10.000000, 8.056793) scale(-1, 1) rotate(90.000000) translate(-10.000000, -8.056793) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

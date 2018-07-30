@@ -25,14 +25,14 @@
         {{- if .Params.alwaysopen}} alwaysopen{{end -}}
         {{- if ne $numberOfPages 0 }} haschildren{{end}}
         ">
-      <div>
-      <a href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</a>
+      <div class="menu-link">
+      <a tabindex="-1" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</a>
         
         {{- if ne $numberOfPages 0 }}
           {{- if or (.IsAncestor $currentNode) (.Params.alwaysopen) }}
-            <i class="fa fa-angle-down fa-lg category-icon"></i>
+            <i class="downArrow"></i>
           {{- else -}}
-            <i class="fa fa-angle-right fa-lg category-icon"></i>
+            <i class="rightArrow"></i>
           {{- end}}
         {{- end}}
 
@@ -66,7 +66,7 @@
     </li>
   {{- else}}
     {{- if not .Params.Hidden }}
-      <li data-nav-id="{{.URL}}" class="dd-item
+      <li data-nav-id="{{.URL}}" class="menu-link dd-item
      {{- if eq .URL $currentNode.URL}} active{{end -}}
       ">
         <div>

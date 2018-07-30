@@ -21,9 +21,10 @@
       {{- if not .Site.Params.disableHomeIcon}}
           <li data-nav-id="{{"/" | relLangURL}}" class="dd-item">
           <a href="{{"/" | relLangURL}}">
-            <i class="fa fa-fw fa-home"></i>
+            <div class="theLogo"></div>
           </a>
           </li>
+          
       {{- end}}
 
       {{- partial "menu.html" . }}
@@ -37,12 +38,14 @@
   </aside>
   <section class="page">
     
+    <div class="contentWrapper"><!-- content wrapper -->
     <div class="nav-select">
-      <center>Navigation : 
+        <div class="logo"><a href="/"></a></div>
+        <div class="selector">
         <select onchange="javascript:location.href = this.value;">
           {{partial "flex/selectnavigation.html" .}}
         </select>
-      </center>
+      </div>
     </div>
 
     {{- if not .Site.Params.disableSearch}}

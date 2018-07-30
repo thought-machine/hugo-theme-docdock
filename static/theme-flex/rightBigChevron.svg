@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="22px" viewBox="0 0 12 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>rightBigChevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.4107792,21.0848999 C0.952093899,21.0806956 0.540580146,20.8020579 0.366366675,20.3777236 C0.192153205,19.9533894 0.28915888,19.4659753 0.612564867,19.1406779 L8.70303727,10.9646825 L0.612564867,2.86280703 C0.166999962,2.41724213 0.166999962,1.69483868 0.612564867,1.24927378 C1.05812977,0.803708871 1.78053322,0.803708871 2.22609812,1.24927378 L10.7213792,9.75595793 C11.388352,10.4237613 11.388352,11.5056037 10.7213792,12.173407 L2.22039659,20.7257035 C2.00994883,20.9496364 1.71802693,21.079151 1.4107792,21.0848999 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="docs-1440" transform="translate(-1299.000000, -1335.000000)">
+            <rect fill="none" x="0" y="0" width="1440" height="1435"></rect>
+            <g id="ui/iconBtn/1_default" transform="translate(1286.000000, 1328.000000)">
+                <g id="icon">
+                    <g id="element/icon/grey/minus" transform="translate(13.000000, 7.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="rightBigChevron" fill="#6E6E6E" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

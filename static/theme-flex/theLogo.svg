@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="element/brand/logoMark/dark" transform="translate(-4.000000, -4.000000)" fill="#4932FF">
+            <path d="M44,19 L53,19 L53,29 L68,29 L68,44 L53,44 L53,53 L44,53 L44,68 L29,68 L29,53 L19,53 L19,44 L4,44 L4,29 L19,29 L19,19 L29,19 L29,4 L44,4 L44,19 Z M4,4 L19,4 L19,19 L4,19 L4,4 Z M4,53 L19,53 L19,68 L4,68 L4,53 Z M53,4 L68,4 L68,19 L53,19 L53,4 Z M53,53 L68,53 L68,68 L53,68 L53,53 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

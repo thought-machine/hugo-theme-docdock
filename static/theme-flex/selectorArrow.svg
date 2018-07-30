@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>selectorArrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.21488415,13.9362648 C4.824048,13.9326824 4.47340573,13.695261 4.32496207,13.3336947 C4.17651842,12.9721284 4.25917492,12.556813 4.53474241,12.2796339 L11.4284648,5.3130391 L4.53474241,-1.59039963 C4.15508586,-1.97005618 4.15508586,-2.58560105 4.53474241,-2.96525759 C4.91439895,-3.34491414 5.52994382,-3.34491414 5.90960037,-2.96525759 L13.1482518,4.28311017 C13.7165654,4.85213142 13.7165654,5.77394678 13.1482518,6.34296803 L5.90474221,13.630201 C5.72542408,13.8210096 5.47668353,13.9313663 5.21488415,13.9362648 Z" id="path-1"></path>
+    </defs>
+    <g id="Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui/selector/noLabel/1_default" transform="translate(-200.000000, -16.000000)">
+            <g id="element/icon/grey/chevron/down/small" transform="translate(200.000000, 16.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="selectorArrow" fill="#6E6E6E" fill-rule="nonzero" transform="translate(8.912243, 5.343132) rotate(-270.000000) translate(-8.912243, -5.343132) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
