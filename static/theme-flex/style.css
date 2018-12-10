@@ -1040,17 +1040,9 @@ article section.page pre span {
   display: none;
 }
 
-p em {
-  border-radius: 2px;
-  color: #000;
-  font-size: 14px;
+p strong {
   font-weight: 900;
-  padding: 2px 6px 2px 6px;
-  margin-right:6px;
-  background: #F1F1FF;
 }
-
-
 
 .read-more {
   background: url(rightArrow.svg) no-repeat;
